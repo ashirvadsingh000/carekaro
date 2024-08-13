@@ -1,0 +1,17 @@
+.bodyCom{
+ 
+    height: 300px;
+    background: linear-gradient(110deg, #3b58fd 60%, #4b75ff 60%);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.itemCom{
+   
+    height: 100px;
+    width: fit-content;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
