@@ -133,6 +133,7 @@
       height: 54px;
       position: absolute;
       right: 0;
+     
       width: 236px;
   }
   
@@ -141,7 +142,8 @@
       left: 0;
       display: block;
       position: absolute;
-      top: 0;
+      top: -30px;
+
       width: 236px;
   }
   
@@ -151,9 +153,9 @@
   
   .footer-social-link.linkedin {
       height: 26px;
-      left: 3px;
-      top: 11px;
-      width: 26px;
+      left: 7px;
+      top: -15px;
+      width: 30px;
   }
   
   .footer-social-link {
@@ -187,22 +189,22 @@
   
   .footer-social-link.twitter {
       height: 28px;
-      left: 62px;
-      top: 3px;
+      left: 68px;
+      top: -20px;
       width: 28px;
   }
   
   .footer-social-link.youtube {
       height: 24px;
-      left: 123px;
-      top: 12px;
+      left: 128px;
+      top: -14px;
       width: 24px;
   }
   
   .footer-social-link.github {
       height: 34px;
-      left: 172px;
-      top: 7px;
+      left: 180px;
+      top: -17px;
       width: 34px;
   }
   
